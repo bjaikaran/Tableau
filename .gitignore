@@ -4,4 +4,4 @@ Tableau.code-workspace
 ../../../GWUBC/
 /data/zipFiles/*.zip
 /data/*.html
-/data/csv/*
+*.csv
