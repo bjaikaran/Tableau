@@ -5,3 +5,4 @@ Tableau.code-workspace
 /data/zipFiles/*.zip
 /data/*.html
 *.csv
+*.ini
